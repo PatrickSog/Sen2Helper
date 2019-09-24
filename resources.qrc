@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Sen2Helper" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
